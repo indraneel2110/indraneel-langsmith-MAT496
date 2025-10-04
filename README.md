@@ -25,3 +25,11 @@
 - **Changes:** enabled the tracing, used metadata in establishing conversational threads, added my own questions and altered some prompts
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/conversational_threads.ipynb
 
+
+## MODULE 2:
+
+
+### Vid-1: Dataset Upload
+- **Learnings:** Learnt how to create and what's the use of datasets in Langchain: to provide referance examples to the model as to what we expect from it. Also learnt ways in which to add data in the dataset: through the UI manually, through tracing and from AI.
+- **Changes:** enabled the tracing, generated my own dataset, changed the question
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/dataset_upload.ipynb
