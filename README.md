@@ -30,6 +30,11 @@
 
 
 ### Vid-1: Dataset Upload
-- **Learnings:** Learnt how to create and what's the use of datasets in Langchain: to provide referance examples to the model as to what we expect from it. Also learnt ways in which to add data in the dataset: through the UI manually, through tracing and from AI.
+- **Learnings:** Learnt how to create datasets and what's the use of datasets in Langchain: to provide referance examples to the model as to what we expect from it. Also learnt ways in which to add data in the dataset: through the UI manually, through tracing and from AI.
 - **Changes:** enabled the tracing, generated my own dataset, changed the question
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/dataset_upload.ipynb
+
+### Vid-2: Evaluators
+- **Learnings:** Learnt about evaluators, which are basically tools that measure and tell us how good the performance of the model is through a qualitative score. Also learnt how to define evaluators through different modes: in local code, through LLM as judge and through UI.
+- **Changes:** enabled the tracing, edited the prompt (since we already did low score for least similar output, I did a completely opposite prompt to get a high 9
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/evaluators.ipynb
