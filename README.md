@@ -43,3 +43,6 @@
 - **Learnings:** Learnt about experiments in Langsmith, how to create an experiment, operate it. Also learnt different usescases: changing the model to see how the output changes. The initial and crucial examples were not working for me even after specifically saving it in the examples in the UI, so I just did the specific data points.
 - **Changes:** enabled the tracing, changed model to see difference in output, ran specific data points
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/experiments.ipynb
+
+### Vid-4: Experiment Analysis
+- **Learnings:** Learnt how to analyse and interpret the result of experiments done on Langsmith, via detailed dashboards and analytics that showed the performance of the models over a certain period of time. I could clearly observe the difference in speed and quality between gpt models 4o and 3.5-turbo (while 3.5-turbo was faster, 4o was more accurate.)
