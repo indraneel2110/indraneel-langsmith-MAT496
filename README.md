@@ -19,3 +19,9 @@
 - **Learnings:** Learnt different ways of enabling tracing, created by Langgraph and nodes created. Also learnt the function trace() for more granural control, also did RunTree basics on my own accord.
 - **Changes:** enabled the tracing, added trace() instead of @traceable, added my own questions and altered some prompts
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/alternative_tracing_methods.ipynb
+
+### Vid-4: Conversational Threads
+- **Learnings:** Learnt what is threading, application of metadata in creating conversational threads. Basically by having a common ID across different runs, there exists a sequence of interactions and as a result the simulation looks natural.
+- **Changes:** enabled the tracing, used metadata in establishing conversational threads, added my own questions and altered some prompts
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/conversational_threads.ipynb
+
