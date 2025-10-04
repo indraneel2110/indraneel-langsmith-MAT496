@@ -38,3 +38,8 @@
 - **Learnings:** Learnt about evaluators, which are basically tools that measure and tell us how good the performance of the model is through a qualitative score. Also learnt how to define evaluators through different modes: in local code, through LLM as judge and through UI.
 - **Changes:** enabled the tracing, edited the prompt (since we already did low score for least similar output, I did a completely opposite prompt to get a high 9
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/evaluators.ipynb
+
+### Vid-3: Experiments
+- **Learnings:** Learnt about experiments in Langsmith, how to create an experiment, operate it. Also learnt different usescases: changing the model to see how the output changes. The initial and crucial examples were not working for me even after specifically saving it in the examples in the UI, so I just did the specific data points.
+- **Changes:** enabled the tracing, changed model to see difference in output, ran specific data points
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/experiments.ipynb
