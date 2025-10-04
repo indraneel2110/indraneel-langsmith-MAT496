@@ -48,6 +48,11 @@
 - **Learnings:** Learnt how to analyse and interpret the result of experiments done on Langsmith, via detailed dashboards and analytics that showed the performance of the models over a certain period of time. I could clearly observe the difference in speed and quality between gpt models 4o and 3.5-turbo (while 3.5-turbo was faster, 4o was more accurate.)
 
 ### Vid-5: Pairwise Experiments
-- **Learnings:** Learnt pairwise experiments which are used to compare two outputs directly against each other. Pairwise Experiments particularly help us in cases where it is not apparent through independant scoring which response is better. But by using LLM as judge to evaluate outputs side by side, it helps us evaluate the true better response. Like before, unsurprisingly, the LLM judged the gpt 4o's outputs better.
+- **Learnings:** Learnt about pairwise experiments which are used to compare two outputs directly against each other. Pairwise Experiments particularly help us in cases where it is not apparent through independant scoring which response is better. But by using LLM as judge to evaluate outputs side by side, it helps us evaluate the true better response. Like before, unsurprisingly, the LLM judged the gpt 4o's outputs better.
 - **Changes:** enabled the tracing, modified the prompt slightly, ran pairwise comparison
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/pairwise_experiments.ipynb
+
+### Vid-6: Summary Evaluators
+- **Learnings:** Learnt about summary evaluators that are used to evaluate whole experiments instead of particular examples. Unlike earlier evaluators that score each run output separately, summary evaluators look at the bigger picture by aggregating results. This allows us to measure global statistics such as overall accuracy, average similarity, or distribution of scores. This is actually crucial when running a model for large datasets.
+- **Changes:** no changes as such in this one
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/summary_evaluators.ipynb
