@@ -56,3 +56,12 @@
 - **Learnings:** Learnt about summary evaluators that are used to evaluate whole experiments instead of particular examples. Unlike earlier evaluators that score each run output separately, summary evaluators look at the bigger picture by aggregating results. This allows us to measure global statistics such as overall accuracy, average similarity, or distribution of scores. This is actually crucial when running a model for large datasets.
 - **Changes:** no changes as such in this one
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/summary_evaluators.ipynb
+
+
+## MODULE 3:
+
+
+### Vid-1: Playground Experiments
+- **Learnings:** Learnt about the functionality of langchain playground, running different prompts for different systems in the playground, also compared the 2 outputs of 2 different models side by side on playground and also saw how to run experiments over datasets.
+- **Changes:** played around in the playground tab in langchain mainly: tried different prompts, different gpt models and different systems; in the code, just changed the questions
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/playground_experiments.ipynb
