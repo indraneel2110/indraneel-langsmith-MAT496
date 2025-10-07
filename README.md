@@ -65,3 +65,9 @@
 - **Learnings:** Learnt about the functionality of langchain playground, running different prompts for different systems in the playground, also compared the 2 outputs of 2 different models side by side on playground and also saw how to run experiments over datasets.
 - **Changes:** played around in the playground tab in langchain mainly: tried different prompts, different gpt models and different systems; in the code, just changed the questions
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/playground_experiments.ipynb
+
+### Vid-2: Prompt Hub
+- **Learnings:** Learnt about the functionality of langchain prompt hub, how to change different prompts using playground and making use of it to run different systems, also learnt how to update prompts programmatically 
+- **Changes:** made a lot of system changes, made 2 different systems other than the pirate one and implemented 1 of them in the code, also made minor changes in the programmatically updated prompt
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/prompt_hub.ipynb
+
