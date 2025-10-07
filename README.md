@@ -75,3 +75,6 @@
 - **Learnings:** Learnt about the prompt engineering lifecycle by implementing an end to end example, making use of playground and prompt hub, tried using the prompt using a dataset and also added a small python code as example, as part of the prompt
 - **Changes:** didn't make a lot of changes in this one, just tried out the program with different technical questions 
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/prompt_engineering_lifecycle.ipynb
+
+### Vid-4: Prompt Canvas
+- **Learnings:** Learnt how to use prompt canvas, that basically allows us to use LLMs and ask them to generate custom prompts as per our requirement. I tried making changes in the 2 systems that I made in prompt hub and also made use of custom actions.
