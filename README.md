@@ -71,3 +71,7 @@
 - **Changes:** made a lot of system changes, made 2 different systems other than the pirate one and implemented 1 of them in the code, also made minor changes in the programmatically updated prompt
 - **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/prompt_hub.ipynb
 
+### Vid-3: Prompt Engineering Lifecycle
+- **Learnings:** Learnt about the prompt engineering lifecycle by implementing an end to end example, making use of playground and prompt hub, tried using the prompt using a dataset and also added a small python code as example, as part of the prompt
+- **Changes:** didn't make a lot of changes in this one, just tried out the program with different technical questions 
+- **My code:** https://github.com/indraneel2110/indraneel-langsmith-MAT496/blob/main/prompt_engineering_lifecycle.ipynb
